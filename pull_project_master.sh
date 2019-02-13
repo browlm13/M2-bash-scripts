@@ -8,7 +8,7 @@
 PROJECT_DIR=$1
 
 # Change directory to '$PROJECT_DIR'
-cd scratch/parallel_scientific_computing/$PROJECT_DIR
+cd  /users/<USER>/scratch/parallel_scientific_computing/$PROJECT_DIR
 
 # Run 'make clean' command from 'src' and return to '$PROJECT_DIR' before pulling from master
 cd src
